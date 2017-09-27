@@ -1,0 +1,10 @@
+dj:%s/,/\r/g<CR>dd3k.4k.ZZ
+
+##explaination
+
+dj ==> delete the first two lines
+:%s/,/\r/g  ==> replace all , with r(break line)
+dd  ==>  delete current line
+. ==> repeat the last operation
+3k ==> k means up, 3k means up * 3
+4k ==> reference the line above
