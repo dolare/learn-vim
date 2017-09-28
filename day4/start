@@ -1,0 +1,12 @@
+<section class="top-bar-selection">
+	<ul class="left">
+		<li class="divider"></li>
+		<li class="active">
+			<a href="homepage.html">page1</a></li>
+		<li class="divider"></li>
+		<li>
+			<a href="homepage.html">page2</a></li>
+	</ul>
+</section>
+
+

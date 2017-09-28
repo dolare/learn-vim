@@ -1,0 +1,3 @@
+/home<CR>vi"xiPage1.html<Esc>jjjvi"xiPage2.html<Esc>ZZ
+
+vi" ==> select the word in the visual mode
